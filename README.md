@@ -29,4 +29,4 @@ To run the project, open the jupyter notebook `US_arrests.ipynb` and run the cel
 
 ### Credits
 
-This project was completed as part of the [Hyperion Dev Data Science Bootcamp](https://www.hyperiondev.com/data-science-course). The source of the original dataset is unknown. 
+This project was completed as part of the [Hyperion Dev Data Science Bootcamp](https://www.hyperiondev.com/bootcamps/data-science-bootcamp/). The source of the original dataset is unknown. 
